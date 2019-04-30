@@ -1,0 +1,1 @@
+201606162015   0     0     0daimaru D:\arcpy_work\dem2csmaptif\symbol\FocalSt_test1 = FOCALMEAN(D:\arcpy_work\dem2csmaptif\sample\testdem.tif,  Weight, D:\arcpy_work\dem2csmaptif\kernel\gaus2503.txt, NODATA)
