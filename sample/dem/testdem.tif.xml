@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="ja"><Esri><CreaDate>20180428</CreaDate><CreaTime>11022600</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.5\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\FocalStatistics" Date="20180428" Time="110226">FocalStatistics dem.tif D:\arcpy_work\CSMaker1805\sample\dem\testdem.tif "Rectangle 3 3 CELL" MEAN DATA</Process></lineage></DataProperties></Esri></metadata>
