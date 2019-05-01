@@ -9,7 +9,7 @@ CS立体図については下記の文献を参照してください。
 
 
 ## Demo
-![CSMapMaker](resources/csmap_demo.gif)
+![CSMapMaker](resources/csmap_demo_s.gif)
 ## VS.
 このスクリプトはArcGISを必要としますが、フリーのQGISを用いてCS立体図を作成するツールがG空間情報センターから公開されています。
 https://www.geospatial.jp/ckan/dataset/cs-tool
